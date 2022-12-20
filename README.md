@@ -76,6 +76,3 @@ https://activity-graph.herokuapp.com/graph?username=sirwill&hide_border=true&are
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirwill&show_icons=true&locale=en" alt="sirwill" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirwill" alt="sirwill" /></p>
-
-
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sirwill&hide_border=true&area=true&theme=vue" alt="contribution" /></p>
